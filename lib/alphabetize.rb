@@ -1,3 +1,7 @@
+require 'pry'
+
+binding.pry
+
 def alphabetize(arr)
-  # code here
+
 end
